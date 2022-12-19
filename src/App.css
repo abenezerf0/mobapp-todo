@@ -1,0 +1,37 @@
+container{
+  background-color: brown;
+}
+*{
+  background-color: rgb(243, 237, 215);
+}
+.App {
+  
+  text-align: center;
+
+}
+input
+{
+  padding:  4px;
+  margin-right: 8px;
+  background-color: aquamarine;
+}
+ul{
+  list-style: none;
+
+}
+li{
+  margin: 12px 0;
+
+}
+delbutton {
+
+  font-size: 10px;
+  margin-left: 8px;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding-top: 4px;
+   
+
+  
+}
